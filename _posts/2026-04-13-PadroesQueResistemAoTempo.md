@@ -5,11 +5,13 @@ categories: [OffTopic]
 tags: [zip, fat32, formatos, história, tecnologia]
 ---
 
-## Introdução
+# Introdução
 
 Dias atrás, pensava em algumas tecnologias que sobrevivem ao tempo, mesmo tendo alternativas modernas, elas continuam sendo utilizadas. Acredito que isso ocorre porque elas solucionam de uma maneira tão eficiente um problema que fica difícil serem substituídas de forma rápida.
 
----
+--- 
+
+# Formatos
 
 ## ZIP — 1989
 
@@ -84,7 +86,9 @@ A solução foi um banco SQL completo em uma única biblioteca, sem servidor, co
 
 Hoje é provavelmente é um dos bancos mais utilizados.
 
----
+--- 
+
+# Padrões
 
 O padrão que aparece em todas essas tecnologias é o mesmo:
 
